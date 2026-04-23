@@ -33,3 +33,8 @@
 
 # Optional: keep local-only asset collections from version control
 # **/Content/Collections/
+
+
+# FAB Packages
+PlateAndPain/Content/Abandoned_Cathedral/
+PlateAndPain/Content/UltraDynamicSky/
