@@ -1,0 +1,35 @@
+.DS_Store
+
+# Unreal Engine — build output, cache, and local editor data
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Build/
+**/Content/Developers/
+
+# Visual Studio / Windows tooling
+**/.vs/
+*.sln
+*.Sln
+.vscode/
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userosscache
+*.pdb
+*.pdb~
+
+# JetBrains / Xcode (common Unreal on Mac)
+.idea/
+**/*.xcodeproj
+**/*.xcworkspace
+*.dSYM
+*.dSYM.zip
+
+# Optional: keep local-only asset collections from version control
+# **/Content/Collections/
