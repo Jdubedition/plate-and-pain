@@ -7,6 +7,7 @@
 **/Saved/
 **/Build/
 **/Content/Developers/
+**/Mac/
 
 # Visual Studio / Windows tooling
 **/.vs/
@@ -38,3 +39,5 @@
 # FAB Packages
 PlateAndPain/Content/Abandoned_Cathedral/
 PlateAndPain/Content/UltraDynamicSky/
+PlateAndPain/Content/EssentialAnimation/
+PlateAndPain/Content/MonsterAi_Kit/
