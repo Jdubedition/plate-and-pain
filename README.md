@@ -10,3 +10,5 @@ Install the following FAB packages before working with this project:
 - [Monster AI Toolkit](https://fab.com/s/8758f4171757)
 - [Quixel Stone Surface](https://fab.com/s/4451bc0d24c1)
 - [Melee Weapon Sound Effects Pack 2](https://fab.com/s/d4b79bcf1708) Push to 5.5 then migrate WAV
+- [Dark Knight - Male and Female](https://fab.com/s/b03de798c900)
+- [Round Shield](https://fab.com/s/2a385caacd5b)
