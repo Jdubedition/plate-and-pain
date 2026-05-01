@@ -1,0 +1,4 @@
+# Copy to `.dev.vars` for local overrides (ignored by git).
+#
+# Phase 1 has no required secrets or vars — this file reserves the pattern for
+# later (e.g. Auth0 parity with Gilded Gloom): AUTH0_DOMAIN, AUTH0_CLIENT_ID, ...

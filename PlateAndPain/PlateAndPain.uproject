@@ -29,6 +29,20 @@
 		{
 			"Name": "DynamicFootStepsEffects",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintWebSocket",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8d3214f45fc74fe48374e8310926dfd4"
+		},
+		{
+			"Name": "BlueprintHttp",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/298d4c62cda4494fb5931659cdf75ab7"
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
 		}
 	]
 }

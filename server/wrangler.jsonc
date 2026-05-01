@@ -1,0 +1,27 @@
+/**
+ * Plate & Pain — Cloudflare Worker + MatchLevel Durable Object.
+ * Docs: https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "plate-and-pain-server",
+	"main": "src/index.ts",
+	"compatibility_date": "2025-08-09",
+	"observability": {
+		"enabled": true
+	},
+	"migrations": [
+		{
+			"tag": "v1",
+			"new_sqlite_classes": ["MatchLevel"]
+		}
+	],
+	"durable_objects": {
+		"bindings": [
+			{
+				"name": "MATCH_LEVEL",
+				"class_name": "MatchLevel"
+			}
+		]
+	}
+}
